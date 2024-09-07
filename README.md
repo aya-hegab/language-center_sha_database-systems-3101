@@ -12,8 +12,8 @@ Each teacher has its ID, age, gender and age. We take from each student his name
 
 ## Conceptual design (Entity-Relationship Model)
 
-![er_diagram](LanguagesCenter/Resources/er_diagram.PNG)
+![er_diagram](language_center/Resources/er_diagram.PNG)
 
 ## Conceptual Design (Conceptual Schema)
 
-![schema](LanguagesCenter/Resources/schema.PNG)
+![schema](language_center/Resources/schema.PNG)

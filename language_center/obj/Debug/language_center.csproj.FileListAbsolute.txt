@@ -1,0 +1,14 @@
+D:\tmp\language_center-database_systems_3101-sha\language_center\bin\Debug\language_center.exe.config
+D:\tmp\language_center-database_systems_3101-sha\language_center\bin\Debug\language_center.exe
+D:\tmp\language_center-database_systems_3101-sha\language_center\bin\Debug\language_center.pdb
+D:\tmp\language_center-database_systems_3101-sha\language_center\obj\Debug\language_center.csproj.AssemblyReference.cache
+D:\tmp\language_center-database_systems_3101-sha\language_center\obj\Debug\language_center.Form1.resources
+D:\tmp\language_center-database_systems_3101-sha\language_center\obj\Debug\language_center.Form2.resources
+D:\tmp\language_center-database_systems_3101-sha\language_center\obj\Debug\language_center.Form3.resources
+D:\tmp\language_center-database_systems_3101-sha\language_center\obj\Debug\language_center.Form4.resources
+D:\tmp\language_center-database_systems_3101-sha\language_center\obj\Debug\language_center.Form5.resources
+D:\tmp\language_center-database_systems_3101-sha\language_center\obj\Debug\language_center.Properties.Resources.resources
+D:\tmp\language_center-database_systems_3101-sha\language_center\obj\Debug\language_center.csproj.GenerateResource.cache
+D:\tmp\language_center-database_systems_3101-sha\language_center\obj\Debug\language_center.csproj.CoreCompileInputs.cache
+D:\tmp\language_center-database_systems_3101-sha\language_center\obj\Debug\language_center.exe
+D:\tmp\language_center-database_systems_3101-sha\language_center\obj\Debug\language_center.pdb
