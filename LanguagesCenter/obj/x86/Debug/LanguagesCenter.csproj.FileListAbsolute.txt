@@ -1,0 +1,56 @@
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\bin\x86\Debug\LanguagesCenter.exe.config
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\bin\x86\Debug\LanguagesCenter.exe
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\bin\x86\Debug\LanguagesCenter.pdb
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form1.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form2.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form3.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form4.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form5.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Properties.Resources.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\x86\Debug\LanguagesCenter.csproj.GenerateResource.cache
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\x86\Debug\LanguagesCenter.csproj.CoreCompileInputs.cache
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\x86\Debug\LanguagesCenter.exe
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\x86\Debug\LanguagesCenter.pdb
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\x86\Debug\LanguagesCenter.csprojAssemblyReference.cache
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\bin\x86\Debug\LanguagesCenter.exe.config
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\bin\x86\Debug\LanguagesCenter.exe
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\bin\x86\Debug\LanguagesCenter.pdb
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\obj\x86\Debug\LanguagesCenter.csprojAssemblyReference.cache
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form1.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form2.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form3.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form4.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form5.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Properties.Resources.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\obj\x86\Debug\LanguagesCenter.csproj.GenerateResource.cache
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\obj\x86\Debug\LanguagesCenter.csproj.CoreCompileInputs.cache
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\obj\x86\Debug\LanguagesCenter.exe
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\00_Languages_Center_Application\LanguagesCenter\obj\x86\Debug\LanguagesCenter.pdb
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\bin\x86\Debug\LanguagesCenter.exe.config
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\bin\x86\Debug\LanguagesCenter.exe
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\bin\x86\Debug\LanguagesCenter.pdb
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.csprojAssemblyReference.cache
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form1.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form2.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form3.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form4.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form5.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Properties.Resources.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.csproj.GenerateResource.cache
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.csproj.CoreCompileInputs.cache
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.exe
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Mine\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.pdb
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\bin\x86\Debug\LanguagesCenter.exe.config
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\bin\x86\Debug\LanguagesCenter.exe
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\bin\x86\Debug\LanguagesCenter.pdb
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.csproj.AssemblyReference.cache
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form1.resources
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form2.resources
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form3.resources
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form4.resources
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Form5.resources
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.Properties.Resources.resources
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.csproj.GenerateResource.cache
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.csproj.CoreCompileInputs.cache
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.exe
+D:\sha\sha_3101_database_systems\Languages_Center\Full_project_&_Docu\00_Languages_Center_(Full_ Project)\LanguagesCenter\obj\x86\Debug\LanguagesCenter.pdb

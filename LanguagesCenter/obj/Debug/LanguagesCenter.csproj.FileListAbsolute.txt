@@ -1,0 +1,14 @@
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\bin\Debug\LanguagesCenter.exe.config
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\bin\Debug\LanguagesCenter.exe
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\bin\Debug\LanguagesCenter.pdb
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\Debug\LanguagesCenter.csprojAssemblyReference.cache
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\Debug\LanguagesCenter.Form1.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\Debug\LanguagesCenter.Properties.Resources.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\Debug\LanguagesCenter.csproj.GenerateResource.cache
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\Debug\LanguagesCenter.csproj.CoreCompileInputs.cache
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\Debug\LanguagesCenter.exe
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\Debug\LanguagesCenter.pdb
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\Debug\LanguagesCenter.Form2.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\Debug\LanguagesCenter.Form3.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\Debug\LanguagesCenter.Form4.resources
+F:\Shorouk Academy\03 Third Year\3101 Database Systems\Project\Languages_Center\LanguagesCenter\LanguagesCenter\obj\Debug\LanguagesCenter.Form5.resources
